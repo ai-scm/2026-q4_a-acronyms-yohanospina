@@ -1,15 +1,6 @@
-# 🔤 Assignment: Acrónimos de Arquitectura y Software (Grupo 3)
+# Assignment: Acrónimos de Arquitectura y Software (Grupo 3)
 
-| Metadata | Detalle |
-| :--- | :--- |
-| **Autor** | Yohan Sebastian Ospina Gonzalez |
-| **Organización** | Blend360 (`ai-scm`) |
-| **Repositorio** | `s2026q4a-acronyms-yohanospina` |
-| **Proyecto** | `[P2426] semillero-2026-q4_a` |
-
----
-
-## 📌 Acrónimos Seleccionados
+## Acrónimos Seleccionados
 
 ### 1. RAG (Retrieval-Augmented Generation)
 * **Significado:** Generación Aumentada por Recuperación.
